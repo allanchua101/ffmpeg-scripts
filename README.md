@@ -18,4 +18,8 @@ All scripts related to video management that run on top of ffmpeg.exe
 
 ![Test Results](https://github.com/allanchua101/ffmpeg-scripts/blob/master/screenshots/mp4%20optimization%20results.png)
 
+## Links
+
+[FFMPEG Github](https://github.com/FFmpeg/FFmpeg)
+
 Enjoy!

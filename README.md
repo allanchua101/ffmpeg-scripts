@@ -3,4 +3,4 @@ All scripts related to video management that run on top of ffmpeg.exe
 
 ## Collection Scripts
 
-[Compress your MP4 Files](https://github.com/allanchua101/ffmpeg-scripts/blob/master/shells/mp4 compression/)
+[Compress your MP4 Files](https://github.com/allanchua101/ffmpeg-scripts/tree/master/shells/mp4%20compression)

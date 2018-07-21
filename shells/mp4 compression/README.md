@@ -17,6 +17,6 @@
 
 ## Test output
 
-![Test Results](https://github.com/allanchua101/ffmpeg-scripts/blob/master/shells/mp4 compression/screenshots/mp4%20optimization%20results.png)
+![Test Results](https://github.com/allanchua101/ffmpeg-scripts/blob/master/shells/mp4%20compression/screenshots/mp4%20optimization%20results.png)
 
 Enjoy!

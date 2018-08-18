@@ -8,6 +8,7 @@ This shell is used for extracting video parts from an input file.
 ffmpeg.exe -i "input filename.ext" --ss HH:mm:ss.mls -t HH:mm:ss.mls "output filename.ext"
 
 # Sample
+# See paramaters section
 ffmpeg.exe -i "input.mp4" --ss 00:01:41.000 -t 00:28:00.000 "output.mp4"
 ```
 
@@ -21,6 +22,9 @@ ffmpeg.exe -i "input.mp4" --ss 00:01:41.000 -t 00:28:00.000 "output.mp4"
 
 ### Parameter used for specifying start time.
 ```sh
+# --ss Use ss for non mp4 files, 
+# --s  Use s for mp4 files
+
 --ss HH:mm:ss.mls
 
 # Operation will extract a chunk of video from the 01:41 minute into the video.

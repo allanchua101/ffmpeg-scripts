@@ -1,4 +1,4 @@
-# Extracting Video Chunks
+# Extracting Audioless Video Chunks
 
 This shell is used for extracting video parts from an input file.
 
